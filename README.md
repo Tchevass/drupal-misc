@@ -1,2 +1,2 @@
 # drupal-misc
-Repository with some useful Drupal patch and script
+Repository with some useful Drupal patch and scripts
